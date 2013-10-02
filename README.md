@@ -1,4 +1,4 @@
-lettuce-flask
-=============
+flask-roughage
+==============
 
-BBD testing for Flask using Lettuce 
+BBD testing for Flask using Lettuce.
